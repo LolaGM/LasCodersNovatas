@@ -1,0 +1,59 @@
+.header{
+    background-color: #2DC369;
+    color:white;
+    
+}
+.photoCoder{
+    height: 200px;
+    width:  200px;  
+}
+.container{
+    width: 1200px;
+    height: 2000px;
+    background-color: #2DC369;
+    color:white;
+    margin:auto;
+}
+.imgAdriana{
+    margin-left: 50px;
+    position: absolute;    
+}
+.imgCarmen{
+    margin-left: 450px;
+    position: absolute;
+}
+.imgEsther{
+    margin-left: 850px;
+}
+.imgLola{
+    margin-left: 250px;
+    position: absolute;
+}
+.imgSofia{
+    margin-left: 650px;
+}
+.textAdriana{
+    margin-left: 50px;
+    width: 200px;
+    position: absolute;
+}
+.textCarmen{
+    margin-left: 50px;
+    width: 200px;
+    position: absolute;
+}
+.textEsther{
+    margin-left: 50px;
+    width: 200px;
+    position: absolute;
+}
+.textLola{
+    margin-left: 50px;
+    width: 200px;
+    position: absolute;
+}
+.textSofia{
+    margin-left: 50px;
+    width: 200px;
+    position: absolute;
+}
