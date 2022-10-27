@@ -1,27 +1,38 @@
 *{
     font-family: 'Lexend', sans-serif;
     margin:auto;
-}
-
-    
+}    
 .photoCoder{
+    background-color: #2DC369;
     height: 150px;
     width:  150px;  
     margin-left: 50px;
 }
-.dataTable{
-    color: white;
+.dataTableHeader{
+    color: #2DC369;  
+    margin-left: 50px;
+
+}
+.dataTableMain{
     background-color: #2DC369;
-    margin: 50px 50px;
-    
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h6{
+    color: #2DC369;
 }
 h2,p{
-margin-left: 50px;
-margin-right: 50px;
+    color:white;
+    margin-left: 50px;
+    margin-right: 50px;
 }
-
 .logo{
-    height: 150px;
-    width: 150px;
+    height: 300px;
+    width: 300px;
+}
+.imgFooter{
+    height: 30px;
+    width:  30px; 
     margin-left: 50px;
 }
