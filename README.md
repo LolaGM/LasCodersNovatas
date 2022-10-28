@@ -14,7 +14,8 @@ https://github.com/Sofia-77
 
 TECHNLOGICAL STACKS: HTML5 and CSS3
 
-METHODOLOGY: Agile con Scrum en mob programming
+METHODOLOGY: Agile with Scrum in mob programming mode
+
 
 NEXT STEPS: 
 
