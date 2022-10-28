@@ -1,22 +1,21 @@
 # LasCodersNovatas
+PROYECT NAME: Las Coders Novatas
 
-NOMBRE DEL PROYECTO: Las Coders Novatas
+PROYECT DESCRIPTION: Create a webpage (landing page) 
+to introduce Coders that make up
+the work team
 
-DESCRIPCIÓN DEL PROYECTO: Crear una página una web (landing page) 
-para presentar a las Coders que integran
-el equipo de trabajo
-
-INTEGRANTES:
+MEMBERS:
 https://github.com/adrianaguilaruiz; 
 https://github.com/CarmenGP; 
 https://github.com/Esther;
 https://github.com/LolaGM;
 https://github.com/Sofia-77
 
-STACKS TECNOLÓGICOS: HTML5 y CSS3
+TECHNLOGICAL STACKS: HTML5 and CSS3
 
-METODOLOGÍA: Agile con Scrum en mob programming
+METHODOLOGY: Agile con Scrum en mob programming
 
-PRÓXIMOS PASOS: 
+NEXT STEPS: 
 
 
