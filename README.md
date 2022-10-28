@@ -8,7 +8,7 @@ the work team
 MEMBERS:
 https://github.com/adrianaguilaruiz; 
 https://github.com/CarmenGP; 
-https://github.com/Esther;
+https://github.com/EstherAma;
 https://github.com/LolaGM;
 https://github.com/Sofia-77
 
