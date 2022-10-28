@@ -8,7 +8,7 @@ el equipo de trabajo
 
 INTEGRANTES:
 https://github.com/adrianaguilaruiz; 
-https://github.com/CarmenG; 
+https://github.com/CarmenGP; 
 https://github.com/Esther;
 https://github.com/LolaGM;
 https://github.com/Sofia-77
