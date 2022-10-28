@@ -6,7 +6,7 @@ DESCRIPCIÓN DEL PROYECTO: Crear una página una web (landing page)
 para presentar a las Coders que integran
 el equipo de trabajo
 
-INTEGRANTES
+INTEGRANTES:
 https://github.com/adrianaguilaruiz; 
 https://github.com/CarmenG; 
 https://github.com/Esther;
