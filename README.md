@@ -26,6 +26,7 @@ TECHNLOGICAL STACKS: HTML5 and CSS3
 
 METHODOLOGY: Agile with Scrum in mob programming mode
 
-NEXT STEPS: Non available
+NEXT STEPS: Finish the web with logo background image 
+
 
 
